@@ -1,0 +1,4585 @@
+[
+  {
+    "text": "Can you help me carry these bags?",
+    "topics": [
+      "Daily Life",
+      "Help"
+    ]
+  },
+  {
+    "text": "What time does the nearest supermarket close?",
+    "topics": [
+      "Schedule",
+      "Shopping"
+    ]
+  },
+  {
+    "text": "I’d like to book a table for two at 7 PM.",
+    "topics": [
+      "Reservation",
+      "Dining"
+    ]
+  },
+  {
+    "text": "Excuse me, where is the nearest ATM?",
+    "topics": [
+      "Location",
+      "Finance"
+    ]
+  },
+  {
+    "text": "Could you take a photo of us, please?",
+    "topics": [
+      "Travel",
+      "Help"
+    ]
+  },
+  {
+    "text": "I need to pick up some groceries after work.",
+    "topics": [
+      "Daily Life",
+      "Shopping"
+    ]
+  },
+  {
+    "text": "Let’s meet at the coffee shop at 3 PM.",
+    "topics": [
+      "Communication",
+      "Schedule"
+    ]
+  },
+  {
+    "text": "My internet is not working, can you check it?",
+    "topics": [
+      "Technology"
+    ]
+  },
+  {
+    "text": "Do you know a good place for lunch nearby?",
+    "topics": [
+      "Communication",
+      "Dining"
+    ]
+  },
+  {
+    "text": "I have a doctor’s appointment tomorrow morning.",
+    "topics": [
+      "Schedule",
+      "Health"
+    ]
+  },
+  {
+    "text": "I’m looking for a birthday gift for my friend.",
+    "topics": [
+      "Shopping"
+    ]
+  },
+  {
+    "text": "Do you have this shirt in a smaller size?",
+    "topics": [
+      "Shopping"
+    ]
+  },
+  {
+    "text": "Can I have the Wi-Fi password, please?",
+    "topics": [
+      "Technology",
+      "Travel"
+    ]
+  },
+  {
+    "text": "The weather is great today! Let’s go for a walk.",
+    "topics": [
+      "Weather",
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "I missed the bus. Can you give me a ride?",
+    "topics": [
+      "Transportation",
+      "Help"
+    ]
+  },
+  {
+    "text": "How much does this cost?",
+    "topics": [
+      "Finance",
+      "Shopping"
+    ]
+  },
+  {
+    "text": "Please call me when you arrive.",
+    "topics": [
+      "Communication",
+      "Daily Life"
+    ]
+  },
+  {
+    "text": "I’d like to order a large cappuccino, please.",
+    "topics": [
+      "Dining",
+      "Order"
+    ]
+  },
+  {
+    "text": "I forgot my umbrella, and it's starting to rain!",
+    "topics": [
+      "Weather",
+      "Daily Life"
+    ]
+  },
+  {
+    "text": "Can you recommend a good movie to watch?",
+    "topics": [
+      "Communication",
+      "Entertainment"
+    ]
+  },
+  {
+    "text": "I need to reschedule my meeting to next Monday.",
+    "topics": [
+      "Work",
+      "Schedule"
+    ]
+  },
+  {
+    "text": "I feel a bit sick today, I should rest.",
+    "topics": [
+      "Daily Life",
+      "Health"
+    ]
+  },
+  {
+    "text": "Where can I find a taxi around here?",
+    "topics": [
+      "Location",
+      "Transportation"
+    ]
+  },
+  {
+    "text": "Let’s order some food for delivery tonight.",
+    "topics": [
+      "Dining",
+      "Convenience"
+    ]
+  },
+  {
+    "text": "I have an important presentation at work tomorrow.",
+    "topics": [
+      "Work"
+    ]
+  },
+  {
+    "text": "Could you please speak a little slower?",
+    "topics": [
+      "Communication",
+      "Education"
+    ]
+  },
+  {
+    "text": "My phone battery is low. Do you have a charger?",
+    "topics": [
+      "Technology",
+      "Help"
+    ]
+  },
+  {
+    "text": "I need to buy a ticket for the subway.",
+    "topics": [
+      "Travel",
+      "Transportation"
+    ]
+  },
+  {
+    "text": "The street is really crowded today!",
+    "topics": [
+      "City Life",
+      "Observation"
+    ]
+  },
+  {
+    "text": "Could you recommend a good book to read?",
+    "topics": [
+      "Entertainment",
+      "Education"
+    ]
+  },
+  {
+    "text": "I have a flight early in the morning.",
+    "topics": [
+      "Schedule",
+      "Travel"
+    ]
+  },
+  {
+    "text": "Can you send me the details by email?",
+    "topics": [
+      "Communication",
+      "Work"
+    ]
+  },
+  {
+    "text": "I need to find a new apartment soon.",
+    "topics": [
+      "Housing",
+      "Daily Life"
+    ]
+  },
+  {
+    "text": "This new phone model looks interesting!",
+    "topics": [
+      "Technology",
+      "Shopping"
+    ]
+  },
+  {
+    "text": "I left my keys at home!",
+    "topics": [
+      "Daily Life",
+      "Mistake"
+    ]
+  },
+  {
+    "text": "Let’s go to the park and have a picnic.",
+    "topics": [
+      "Communication",
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "I need a break. Let’s grab a coffee.",
+    "topics": [
+      "Work"
+    ]
+  },
+  {
+    "text": "Do you have any vegetarian options on the menu?",
+    "topics": [
+      "Health",
+      "Dining"
+    ]
+  },
+  {
+    "text": "The concert tickets sold out so quickly!",
+    "topics": [
+      "Entertainment",
+      "Event"
+    ]
+  },
+  {
+    "text": "I need to return this item. It doesn’t fit.",
+    "topics": [
+      "Shopping"
+    ]
+  },
+  {
+    "text": "I want to learn a new language this year.",
+    "topics": [
+      "Education"
+    ]
+  },
+  {
+    "text": "Can you recommend a good gym around here?",
+    "topics": [
+      "Health"
+    ]
+  },
+  {
+    "text": "I forgot to bring my wallet!",
+    "topics": [
+      "Daily Life",
+      "Mistake"
+    ]
+  },
+  {
+    "text": "My laptop is running very slowly.",
+    "topics": [
+      "Technology"
+    ]
+  },
+  {
+    "text": "The traffic is terrible today!",
+    "topics": [
+      "City Life",
+      "Transportation"
+    ]
+  },
+  {
+    "text": "I need to pay my bills online today.",
+    "topics": [
+      "Daily Life",
+      "Finance"
+    ]
+  },
+  {
+    "text": "Can you suggest a nice place to visit this weekend?",
+    "topics": [
+      "Communication",
+      "Travel"
+    ]
+  },
+  {
+    "text": "I’m going to the bank to withdraw some cash.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "Can you help me carry these heavy boxes?",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "I’m lost. Can you help me find my way?",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "Could you help me fix my computer?",
+    "topics": [
+      "Technology",
+      "Help"
+    ]
+  },
+  {
+    "text": "I need help understanding this document.",
+    "topics": [
+      "Work",
+      "Help"
+    ]
+  },
+  {
+    "text": "Can you give me a hand with my homework?",
+    "topics": [
+      "Education",
+      "Help"
+    ]
+  },
+  {
+    "text": "I need your help to move this furniture.",
+    "topics": [
+      "Home",
+      "Help"
+    ]
+  },
+  {
+    "text": "Please help me call an ambulance!",
+    "topics": [
+      "Health",
+      "Help"
+    ]
+  },
+  {
+    "text": "Can you help me open this jar?",
+    "topics": [
+      "Daily Life",
+      "Help"
+    ]
+  },
+  {
+    "text": "I need some help finding a good restaurant.",
+    "topics": [
+      "Health",
+      "Help"
+    ]
+  },
+  {
+    "text": "Could you assist me with filling out this form?",
+    "topics": [
+      "Finance",
+      "Help"
+    ]
+  },
+  {
+    "text": "Can you help me translate this sentence?",
+    "topics": [
+      "Education",
+      "Help"
+    ]
+  },
+  {
+    "text": "I’m having trouble starting my car. Can you help?",
+    "topics": [
+      "Transportation",
+      "Help"
+    ]
+  },
+  {
+    "text": "Would you mind helping me set up this new device?",
+    "topics": [
+      "Technology",
+      "Help"
+    ]
+  },
+  {
+    "text": "I need help carrying these groceries to my car.",
+    "topics": [
+      "Shopping",
+      "Help"
+    ]
+  },
+  {
+    "text": "Could you lend me a hand with this project?",
+    "topics": [
+      "Work",
+      "Help"
+    ]
+  },
+  {
+    "text": "I need assistance with booking a hotel.",
+    "topics": [
+      "Travel",
+      "Help"
+    ]
+  },
+  {
+    "text": "Can you show me how to use this software?",
+    "topics": [
+      "Technology",
+      "Help"
+    ]
+  },
+  {
+    "text": "I don’t understand this math problem. Can you help me?",
+    "topics": [
+      "Education",
+      "Help"
+    ]
+  },
+  {
+    "text": "My bike chain is stuck. Can you assist me?",
+    "topics": [
+      "Daily Life",
+      "Help"
+    ]
+  },
+  {
+    "text": "Can you help me find a taxi?",
+    "topics": [
+      "Transportation",
+      "Help"
+    ]
+  },
+  {
+    "text": "Our customer support team is available 24/7.",
+    "topics": [
+      "Technology",
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "I really appreciate your support during this difficult time.",
+    "topics": [
+      "Technology",
+      "Communication"
+    ]
+  },
+  {
+    "text": "The company provides technical support for its products.",
+    "topics": [
+      "Technology"
+    ]
+  },
+  {
+    "text": "We need more financial support for this project.",
+    "topics": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "She always supports me in my decisions.",
+    "topics": [
+      "Technology",
+      "Communication"
+    ]
+  },
+  {
+    "text": "The IT department offers support for software issues.",
+    "topics": [
+      "Technology"
+    ]
+  },
+  {
+    "text": "Our team supports new employees with training sessions.",
+    "topics": [
+      "Technology",
+      "Work"
+    ]
+  },
+  {
+    "text": "The government provides support for small businesses.",
+    "topics": [
+      "Business",
+      "Technology"
+    ]
+  },
+  {
+    "text": "Thank you for your emotional support.",
+    "topics": [
+      "Technology",
+      "Communication"
+    ]
+  },
+  {
+    "text": "The app has a live chat for customer support.",
+    "topics": [
+      "Technology"
+    ]
+  },
+  {
+    "text": "We need to support local businesses by shopping locally.",
+    "topics": [
+      "Business",
+      "Technology"
+    ]
+  },
+  {
+    "text": "Our charity provides support for homeless people.",
+    "topics": [
+      "Technology",
+      "Communication"
+    ]
+  },
+  {
+    "text": "The technical support team is solving the issue.",
+    "topics": [
+      "Technology"
+    ]
+  },
+  {
+    "text": "Family support is essential for a child’s development.",
+    "topics": [
+      "Technology",
+      "Family"
+    ]
+  },
+  {
+    "text": "This software has great online support resources.",
+    "topics": [
+      "Technology"
+    ]
+  },
+  {
+    "text": "She supports her colleagues by sharing useful tips.",
+    "topics": [
+      "Technology",
+      "Work"
+    ]
+  },
+  {
+    "text": "Our team is here to support you with any concerns.",
+    "topics": [
+      "Technology",
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "He provides support for students with learning difficulties.",
+    "topics": [
+      "Technology",
+      "Education"
+    ]
+  },
+  {
+    "text": "They offer free legal support for low-income families.",
+    "topics": [
+      "Legal",
+      "Technology"
+    ]
+  },
+  {
+    "text": "The community came together to support the victims of the disaster.",
+    "topics": [
+      "Technology",
+      "Communication"
+    ]
+  },
+  {
+    "text": "The new action movie is breaking box office records.",
+    "topics": [
+      "Entertainment"
+    ]
+  },
+  {
+    "text": "She loves reading books as a form of entertainment.",
+    "topics": [
+      "Entertainment",
+      "Education"
+    ]
+  },
+  {
+    "text": "The concert last night was absolutely amazing!",
+    "topics": [
+      "Entertainment"
+    ]
+  },
+  {
+    "text": "Online streaming services have changed the way we watch TV.",
+    "topics": [
+      "Technology",
+      "Entertainment"
+    ]
+  },
+  {
+    "text": "He enjoys playing video games in his free time.",
+    "topics": [
+      "Entertainment"
+    ]
+  },
+  {
+    "text": "The comedy show had the entire audience laughing.",
+    "topics": [
+      "Entertainment"
+    ]
+  },
+  {
+    "text": "Many people enjoy live theater performances.",
+    "topics": [
+      "Entertainment"
+    ]
+  },
+  {
+    "text": "The amusement park has many thrilling rides.",
+    "topics": [
+      "Entertainment",
+      "Travel"
+    ]
+  },
+  {
+    "text": "She spends hours watching her favorite drama series.",
+    "topics": [
+      "Entertainment"
+    ]
+  },
+  {
+    "text": "Listening to music helps me relax after a long day.",
+    "topics": [
+      "Entertainment"
+    ]
+  },
+  {
+    "text": "They are hosting a karaoke night this weekend.",
+    "topics": [
+      "Entertainment"
+    ]
+  },
+  {
+    "text": "The magic show left everyone in awe.",
+    "topics": [
+      "Entertainment"
+    ]
+  },
+  {
+    "text": "Many people enjoy watching sports for entertainment.",
+    "topics": [
+      "Entertainment"
+    ]
+  },
+  {
+    "text": "He collects classic vinyl records as a hobby.",
+    "topics": [
+      "Entertainment"
+    ]
+  },
+  {
+    "text": "The festival featured live music and food stalls.",
+    "topics": [
+      "Entertainment",
+      "Events"
+    ]
+  },
+  {
+    "text": "She enjoys solving puzzles and playing board games.",
+    "topics": [
+      "Entertainment"
+    ]
+  },
+  {
+    "text": "The new reality TV show is gaining popularity.",
+    "topics": [
+      "Entertainment"
+    ]
+  },
+  {
+    "text": "Many tourists visit Las Vegas for entertainment and nightlife.",
+    "topics": [
+      "Entertainment",
+      "Travel"
+    ]
+  },
+  {
+    "text": "Virtual reality games provide an immersive experience.",
+    "topics": [
+      "Technology",
+      "Entertainment"
+    ]
+  },
+  {
+    "text": "Watching stand-up comedy is a great way to relieve stress.",
+    "topics": [
+      "Entertainment"
+    ]
+  },
+  {
+    "text": "Public transportation is an affordable way to travel in the city.",
+    "topics": [
+      "Transportation"
+    ]
+  },
+  {
+    "text": "Many people prefer riding bicycles for short-distance travel.",
+    "topics": [
+      "Transportation"
+    ]
+  },
+  {
+    "text": "Electric cars are becoming more popular due to their environmental benefits.",
+    "topics": [
+      "Technology",
+      "Transportation"
+    ]
+  },
+  {
+    "text": "The subway system in New York is one of the busiest in the world.",
+    "topics": [
+      "Transportation"
+    ]
+  },
+  {
+    "text": "He missed his flight because of a traffic jam.",
+    "topics": [
+      "Transportation"
+    ]
+  },
+  {
+    "text": "High-speed trains make long-distance travel more convenient.",
+    "topics": [
+      "Transportation"
+    ]
+  },
+  {
+    "text": "Many cities are investing in electric buses to reduce pollution.",
+    "topics": [
+      "Transportation"
+    ]
+  },
+  {
+    "text": "She prefers taking a taxi when traveling late at night.",
+    "topics": [
+      "Transportation"
+    ]
+  },
+  {
+    "text": "Carpooling is a great way to save fuel and reduce traffic congestion.",
+    "topics": [
+      "Environment",
+      "Transportation"
+    ]
+  },
+  {
+    "text": "Many people choose ride-sharing apps for their daily commute.",
+    "topics": [
+      "Technology",
+      "Transportation"
+    ]
+  },
+  {
+    "text": "The government is expanding the highway to ease traffic flow.",
+    "topics": [
+      "Environment",
+      "Transportation"
+    ]
+  },
+  {
+    "text": "Motorcycles are a popular mode of transport in Southeast Asia.",
+    "topics": [
+      "Transportation"
+    ]
+  },
+  {
+    "text": "The airport was closed due to heavy snowfall.",
+    "topics": [
+      "Weather",
+      "Transportation"
+    ]
+  },
+  {
+    "text": "Driving at night can be dangerous due to low visibility.",
+    "topics": [
+      "Transportation",
+      "Security"
+    ]
+  },
+  {
+    "text": "He enjoys traveling by cruise ships during vacations.",
+    "topics": [
+      "Travel",
+      "Transportation"
+    ]
+  },
+  {
+    "text": "The city has introduced rental e-scooters for short trips.",
+    "topics": [
+      "Technology",
+      "Transportation"
+    ]
+  },
+  {
+    "text": "Many countries are developing hyperloop technology for faster travel.",
+    "topics": [
+      "Technology",
+      "Transportation"
+    ]
+  },
+  {
+    "text": "Pedestrian-friendly streets encourage walking and reduce traffic.",
+    "topics": [
+      "Environment",
+      "Transportation"
+    ]
+  },
+  {
+    "text": "She prefers to drive a hybrid car to save on fuel costs.",
+    "topics": [
+      "Environment",
+      "Transportation"
+    ]
+  },
+  {
+    "text": "The ferry ride across the river offers a scenic view.",
+    "topics": [
+      "Travel",
+      "Transportation"
+    ]
+  },
+  {
+    "text": "Our company is launching a new product next month.",
+    "topics": [
+      "Business"
+    ]
+  },
+  {
+    "text": "Successful businesses always focus on customer satisfaction.",
+    "topics": [
+      "Business"
+    ]
+  },
+  {
+    "text": "He wants to start his own business this year.",
+    "topics": [
+      "Business"
+    ]
+  },
+  {
+    "text": "Networking is crucial for business growth.",
+    "topics": [
+      "Business"
+    ]
+  },
+  {
+    "text": "The market is highly competitive these days.",
+    "topics": [
+      "Business"
+    ]
+  },
+  {
+    "text": "She presented a great business proposal to investors.",
+    "topics": [
+      "Business"
+    ]
+  },
+  {
+    "text": "Expanding globally is a key goal for many companies.",
+    "topics": [
+      "Business"
+    ]
+  },
+  {
+    "text": "We need a strong business strategy to increase sales.",
+    "topics": [
+      "Business"
+    ]
+  },
+  {
+    "text": "This company values innovation and creativity.",
+    "topics": [
+      "Business"
+    ]
+  },
+  {
+    "text": "They are looking for new business partners.",
+    "topics": [
+      "Business"
+    ]
+  },
+  {
+    "text": "Starting a business requires careful planning.",
+    "topics": [
+      "Business"
+    ]
+  },
+  {
+    "text": "She is an expert in business management.",
+    "topics": [
+      "Business"
+    ]
+  },
+  {
+    "text": "Good leadership is essential for business success.",
+    "topics": [
+      "Business"
+    ]
+  },
+  {
+    "text": "Investors are interested in fast-growing businesses.",
+    "topics": [
+      "Business"
+    ]
+  },
+  {
+    "text": "The company is hiring new employees next month.",
+    "topics": [
+      "Business"
+    ]
+  },
+  {
+    "text": "They offer business consulting services.",
+    "topics": [
+      "Business"
+    ]
+  },
+  {
+    "text": "A well-organized business plan is necessary for funding.",
+    "topics": [
+      "Business"
+    ]
+  },
+  {
+    "text": "We need to analyze market trends before making a decision.",
+    "topics": [
+      "Business"
+    ]
+  },
+  {
+    "text": "The business conference will take place next Friday.",
+    "topics": [
+      "Business"
+    ]
+  },
+  {
+    "text": "Marketing plays a big role in business success.",
+    "topics": [
+      "Business"
+    ]
+  },
+  {
+    "text": "The city is always busy and full of energy.",
+    "topics": [
+      "City Life"
+    ]
+  },
+  {
+    "text": "Public transportation makes commuting easier.",
+    "topics": [
+      "City Life"
+    ]
+  },
+  {
+    "text": "Street vendors sell delicious food at every corner.",
+    "topics": [
+      "City Life"
+    ]
+  },
+  {
+    "text": "The nightlife in this city is amazing.",
+    "topics": [
+      "City Life"
+    ]
+  },
+  {
+    "text": "Many people enjoy walking in city parks.",
+    "topics": [
+      "City Life"
+    ]
+  },
+  {
+    "text": "Skyscrapers dominate the city skyline.",
+    "topics": [
+      "City Life"
+    ]
+  },
+  {
+    "text": "Traffic congestion is a common issue in big cities.",
+    "topics": [
+      "City Life"
+    ]
+  },
+  {
+    "text": "The city has many cultural events and festivals.",
+    "topics": [
+      "City Life"
+    ]
+  },
+  {
+    "text": "New apartment buildings are being constructed.",
+    "topics": [
+      "City Life"
+    ]
+  },
+  {
+    "text": "Public Wi-Fi is available in many city areas.",
+    "topics": [
+      "City Life"
+    ]
+  },
+  {
+    "text": "Street performers entertain people in busy areas.",
+    "topics": [
+      "City Life"
+    ]
+  },
+  {
+    "text": "The subway is the fastest way to get around the city.",
+    "topics": [
+      "City Life"
+    ]
+  },
+  {
+    "text": "Many people prefer city life over rural areas.",
+    "topics": [
+      "City Life"
+    ]
+  },
+  {
+    "text": "Living costs in the city are quite high.",
+    "topics": [
+      "City Life"
+    ]
+  },
+  {
+    "text": "Restaurants and cafes are open late in the city.",
+    "topics": [
+      "City Life"
+    ]
+  },
+  {
+    "text": "The city government is improving public transport services.",
+    "topics": [
+      "City Life"
+    ]
+  },
+  {
+    "text": "Cycling is becoming more popular in cities.",
+    "topics": [
+      "City Life"
+    ]
+  },
+  {
+    "text": "There are many museums and galleries in the city.",
+    "topics": [
+      "City Life"
+    ]
+  },
+  {
+    "text": "Some cities have beautiful rivers and lakes.",
+    "topics": [
+      "City Life"
+    ]
+  },
+  {
+    "text": "City parks provide a break from the busy streets.",
+    "topics": [
+      "City Life"
+    ]
+  },
+  {
+    "text": "Good communication skills are essential in the workplace.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Listening is as important as speaking.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "She prefers face-to-face conversations over texting.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Email is a common form of professional communication.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Learning a new language improves communication skills.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Public speaking can be challenging for many people.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Effective communication helps build strong relationships.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Writing clearly is an important communication skill.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Social media has changed how people communicate.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "He needs to improve his negotiation skills.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Body language is an important part of communication.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "The internet has made global communication easier.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Phone calls are still preferred for urgent matters.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "She took a course on business communication.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Conflict resolution requires good communication.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Virtual meetings are common in remote work settings.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "A good communicator can express ideas clearly.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "They use video conferencing for international meetings.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Politeness is key in professional communication.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Communication barriers can lead to misunderstandings.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Online shopping makes life more convenient.",
+    "topics": [
+      "Convenience"
+    ]
+  },
+  {
+    "text": "Food delivery services save a lot of time.",
+    "topics": [
+      "Convenience"
+    ]
+  },
+  {
+    "text": "Self-checkout kiosks are becoming more popular.",
+    "topics": [
+      "Convenience"
+    ]
+  },
+  {
+    "text": "Using mobile payments is quick and easy.",
+    "topics": [
+      "Convenience"
+    ]
+  },
+  {
+    "text": "Many people use smart home devices for convenience.",
+    "topics": [
+      "Convenience"
+    ]
+  },
+  {
+    "text": "Ride-hailing apps make commuting easier.",
+    "topics": [
+      "Convenience"
+    ]
+  },
+  {
+    "text": "Public transport apps help track bus schedules.",
+    "topics": [
+      "Convenience"
+    ]
+  },
+  {
+    "text": "Drive-thru restaurants offer fast service.",
+    "topics": [
+      "Convenience"
+    ]
+  },
+  {
+    "text": "Automatic doors are helpful for disabled people.",
+    "topics": [
+      "Convenience"
+    ]
+  },
+  {
+    "text": "E-tickets have replaced paper tickets in many places.",
+    "topics": [
+      "Convenience"
+    ]
+  },
+  {
+    "text": "Booking hotels online is more convenient.",
+    "topics": [
+      "Convenience"
+    ]
+  },
+  {
+    "text": "Many people prefer cashless transactions.",
+    "topics": [
+      "Convenience"
+    ]
+  },
+  {
+    "text": "Online banking allows easy fund transfers.",
+    "topics": [
+      "Convenience"
+    ]
+  },
+  {
+    "text": "Prepaid metro cards save time when commuting.",
+    "topics": [
+      "Convenience"
+    ]
+  },
+  {
+    "text": "Curbside pickup is a growing trend in retail.",
+    "topics": [
+      "Convenience"
+    ]
+  },
+  {
+    "text": "Mobile apps help people organize their schedules.",
+    "topics": [
+      "Convenience"
+    ]
+  },
+  {
+    "text": "Smart assistants can set reminders for you.",
+    "topics": [
+      "Convenience"
+    ]
+  },
+  {
+    "text": "Streaming services eliminate the need for DVDs.",
+    "topics": [
+      "Convenience"
+    ]
+  },
+  {
+    "text": "Grocery delivery services are very popular.",
+    "topics": [
+      "Convenience"
+    ]
+  },
+  {
+    "text": "Electric scooters provide a quick way to get around.",
+    "topics": [
+      "Convenience"
+    ]
+  },
+  {
+    "text": "Good customer service is key to business success.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "The support team was very helpful.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "They offer 24/7 customer service.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Customers expect quick responses to inquiries.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "A friendly attitude improves customer experience.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Many businesses use chatbots for customer support.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Handling complaints politely is important.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Customer feedback helps businesses improve.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Some companies offer live chat support.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Great service encourages customer loyalty.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Providing clear information prevents misunderstandings.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Many companies offer refunds for unsatisfied customers.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Fast response times make customers happy.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Personalized service improves customer satisfaction.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Companies should train employees in customer care.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Clear communication is essential in customer service.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Customers appreciate problem-solving skills.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Businesses should apologize for mistakes quickly.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Customer service agents need patience.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "A positive experience increases repeat customers.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "I wake up early every morning.",
+    "topics": [
+      "Daily Life"
+    ]
+  },
+  {
+    "text": "Cooking at home is healthier than eating out.",
+    "topics": [
+      "Daily Life"
+    ]
+  },
+  {
+    "text": "I usually go for a walk in the evening.",
+    "topics": [
+      "Daily Life"
+    ]
+  },
+  {
+    "text": "Doing laundry is part of my weekly routine.",
+    "topics": [
+      "Daily Life"
+    ]
+  },
+  {
+    "text": "He spends his weekends cleaning the house.",
+    "topics": [
+      "Daily Life"
+    ]
+  },
+  {
+    "text": "I like to make a to-do list every day.",
+    "topics": [
+      "Daily Life"
+    ]
+  },
+  {
+    "text": "She enjoys gardening in her free time.",
+    "topics": [
+      "Daily Life"
+    ]
+  },
+  {
+    "text": "Exercising daily keeps me fit and healthy.",
+    "topics": [
+      "Daily Life"
+    ]
+  },
+  {
+    "text": "Grocery shopping is a regular task for me.",
+    "topics": [
+      "Daily Life"
+    ]
+  },
+  {
+    "text": "I prefer reading a book before going to bed.",
+    "topics": [
+      "Daily Life"
+    ]
+  },
+  {
+    "text": "Walking the dog is part of my daily routine.",
+    "topics": [
+      "Daily Life"
+    ]
+  },
+  {
+    "text": "I always check my emails in the morning.",
+    "topics": [
+      "Daily Life"
+    ]
+  },
+  {
+    "text": "Preparing meals in advance saves time.",
+    "topics": [
+      "Daily Life"
+    ]
+  },
+  {
+    "text": "I drink coffee every morning to wake up.",
+    "topics": [
+      "Daily Life"
+    ]
+  },
+  {
+    "text": "Making the bed is a habit I follow daily.",
+    "topics": [
+      "Daily Life"
+    ]
+  },
+  {
+    "text": "Listening to music while working helps me focus.",
+    "topics": [
+      "Daily Life"
+    ]
+  },
+  {
+    "text": "I clean my room every weekend.",
+    "topics": [
+      "Daily Life"
+    ]
+  },
+  {
+    "text": "Taking short breaks during work improves productivity.",
+    "topics": [
+      "Daily Life"
+    ]
+  },
+  {
+    "text": "I always set an alarm before sleeping.",
+    "topics": [
+      "Daily Life"
+    ]
+  },
+  {
+    "text": "Drinking enough water is important for health.",
+    "topics": [
+      "Daily Life"
+    ]
+  },
+  {
+    "text": "I love trying new restaurants.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "The pizza at this place is amazing!",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "We should order dessert after dinner.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "I prefer spicy food over sweet food.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "They serve the best seafood in town.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "Breakfast is the most important meal of the day.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "Let's have lunch at the new café.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "I enjoy cooking for my family.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "The steak here is perfectly cooked.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "I like to have tea in the afternoon.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "This restaurant has a great vegetarian menu.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "They offer free refills on soft drinks.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "Buffets are great when you're really hungry.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "Trying local food is part of traveling.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "We need to make a reservation for dinner.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "Sharing meals with friends is enjoyable.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "Street food is often very delicious.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "Eating too fast is bad for digestion.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "Let's order sushi for dinner tonight.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "Homemade food is always the best.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "Studying every day helps improve memory.",
+    "topics": [
+      "Education"
+    ]
+  },
+  {
+    "text": "Learning a new language is challenging but fun.",
+    "topics": [
+      "Education"
+    ]
+  },
+  {
+    "text": "Teachers play a big role in education.",
+    "topics": [
+      "Education"
+    ]
+  },
+  {
+    "text": "Online courses make learning more accessible.",
+    "topics": [
+      "Education"
+    ]
+  },
+  {
+    "text": "She enjoys reading history books.",
+    "topics": [
+      "Education"
+    ]
+  },
+  {
+    "text": "Group study sessions are very helpful.",
+    "topics": [
+      "Education"
+    ]
+  },
+  {
+    "text": "Good study habits lead to better results.",
+    "topics": [
+      "Education"
+    ]
+  },
+  {
+    "text": "Mathematics is an important subject in school.",
+    "topics": [
+      "Education"
+    ]
+  },
+  {
+    "text": "Taking notes helps retain information.",
+    "topics": [
+      "Education"
+    ]
+  },
+  {
+    "text": "Education opens doors to new opportunities.",
+    "topics": [
+      "Education"
+    ]
+  },
+  {
+    "text": "Critical thinking is an essential skill.",
+    "topics": [
+      "Education"
+    ]
+  },
+  {
+    "text": "Exams can be stressful for students.",
+    "topics": [
+      "Education"
+    ]
+  },
+  {
+    "text": "Libraries are great places for studying.",
+    "topics": [
+      "Education"
+    ]
+  },
+  {
+    "text": "Science experiments are interesting to conduct.",
+    "topics": [
+      "Education"
+    ]
+  },
+  {
+    "text": "He is taking a course in graphic design.",
+    "topics": [
+      "Education"
+    ]
+  },
+  {
+    "text": "Writing essays improves communication skills.",
+    "topics": [
+      "Education"
+    ]
+  },
+  {
+    "text": "Attending lectures is important for understanding.",
+    "topics": [
+      "Education"
+    ]
+  },
+  {
+    "text": "Scholarships help students afford higher education.",
+    "topics": [
+      "Education"
+    ]
+  },
+  {
+    "text": "Public speaking is an important skill to learn.",
+    "topics": [
+      "Education"
+    ]
+  },
+  {
+    "text": "Lifelong learning keeps the mind active.",
+    "topics": [
+      "Education"
+    ]
+  },
+  {
+    "text": "Recycling helps reduce waste pollution.",
+    "topics": [
+      "Environment"
+    ]
+  },
+  {
+    "text": "Planting more trees can improve air quality.",
+    "topics": [
+      "Environment"
+    ]
+  },
+  {
+    "text": "Using reusable bags is good for the environment.",
+    "topics": [
+      "Environment"
+    ]
+  },
+  {
+    "text": "Carpooling helps lower carbon emissions.",
+    "topics": [
+      "Environment"
+    ]
+  },
+  {
+    "text": "Deforestation is a serious global issue.",
+    "topics": [
+      "Environment"
+    ]
+  },
+  {
+    "text": "Renewable energy sources are better for the planet.",
+    "topics": [
+      "Environment"
+    ]
+  },
+  {
+    "text": "Saving water is important for sustainability.",
+    "topics": [
+      "Environment"
+    ]
+  },
+  {
+    "text": "Many animals are endangered due to habitat loss.",
+    "topics": [
+      "Environment"
+    ]
+  },
+  {
+    "text": "Public transportation helps reduce air pollution.",
+    "topics": [
+      "Environment"
+    ]
+  },
+  {
+    "text": "Switching to electric cars can protect the environment.",
+    "topics": [
+      "Environment"
+    ]
+  },
+  {
+    "text": "Reducing plastic use is a major global challenge.",
+    "topics": [
+      "Environment"
+    ]
+  },
+  {
+    "text": "Composting food waste helps improve soil quality.",
+    "topics": [
+      "Environment"
+    ]
+  },
+  {
+    "text": "Global warming affects weather patterns worldwide.",
+    "topics": [
+      "Environment"
+    ]
+  },
+  {
+    "text": "Using solar panels can save energy costs.",
+    "topics": [
+      "Environment"
+    ]
+  },
+  {
+    "text": "Factories should reduce their carbon emissions.",
+    "topics": [
+      "Environment"
+    ]
+  },
+  {
+    "text": "Beach cleanups help protect marine life.",
+    "topics": [
+      "Environment"
+    ]
+  },
+  {
+    "text": "Rainforests are home to many unique species.",
+    "topics": [
+      "Environment"
+    ]
+  },
+  {
+    "text": "Sustainable farming practices benefit the earth.",
+    "topics": [
+      "Environment"
+    ]
+  },
+  {
+    "text": "Wildlife conservation is important for biodiversity.",
+    "topics": [
+      "Environment"
+    ]
+  },
+  {
+    "text": "We should all take action to protect nature.",
+    "topics": [
+      "Environment"
+    ]
+  },
+  {
+    "text": "The music festival will take place this weekend.",
+    "topics": [
+      "Event"
+    ]
+  },
+  {
+    "text": "She is organizing a charity event for children.",
+    "topics": [
+      "Event"
+    ]
+  },
+  {
+    "text": "The wedding ceremony was beautiful.",
+    "topics": [
+      "Event"
+    ]
+  },
+  {
+    "text": "There is a technology conference next month.",
+    "topics": [
+      "Event"
+    ]
+  },
+  {
+    "text": "Many people attend sports events every year.",
+    "topics": [
+      "Event"
+    ]
+  },
+  {
+    "text": "The art exhibition features amazing paintings.",
+    "topics": [
+      "Event"
+    ]
+  },
+  {
+    "text": "He is planning a surprise birthday party.",
+    "topics": [
+      "Event"
+    ]
+  },
+  {
+    "text": "Food festivals attract many visitors.",
+    "topics": [
+      "Event"
+    ]
+  },
+  {
+    "text": "The city hosts an annual cultural fair.",
+    "topics": [
+      "Event"
+    ]
+  },
+  {
+    "text": "The book launch event was a huge success.",
+    "topics": [
+      "Event"
+    ]
+  },
+  {
+    "text": "She received an award at the ceremony.",
+    "topics": [
+      "Event"
+    ]
+  },
+  {
+    "text": "The company is hosting a business seminar.",
+    "topics": [
+      "Event"
+    ]
+  },
+  {
+    "text": "Attending live concerts is very exciting.",
+    "topics": [
+      "Event"
+    ]
+  },
+  {
+    "text": "New Year’s Eve celebrations are always fun.",
+    "topics": [
+      "Event"
+    ]
+  },
+  {
+    "text": "The fashion show featured talented designers.",
+    "topics": [
+      "Event"
+    ]
+  },
+  {
+    "text": "The school is preparing for a science fair.",
+    "topics": [
+      "Event"
+    ]
+  },
+  {
+    "text": "A marathon event is scheduled for next Sunday.",
+    "topics": [
+      "Event"
+    ]
+  },
+  {
+    "text": "Networking events help professionals connect.",
+    "topics": [
+      "Event"
+    ]
+  },
+  {
+    "text": "A grand opening event was held for the new mall.",
+    "topics": [
+      "Event"
+    ]
+  },
+  {
+    "text": "They are organizing a charity run for cancer awareness.",
+    "topics": [
+      "Event"
+    ]
+  },
+  {
+    "text": "Hiring a good lawyer is important for legal cases.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Understanding your rights is essential in any legal matter.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Contracts should always be reviewed before signing.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Many people seek legal advice for property disputes.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Intellectual property laws protect original creations.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "The new law affects small businesses significantly.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Legal documents must be signed in the presence of a witness.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "A good contract protects both parties in an agreement.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Consumer rights help protect buyers from fraud.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Tax laws can be very complicated to understand.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Every citizen should be aware of basic legal rights.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Corporate law governs business operations.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Legal disputes can take years to resolve.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Many lawyers specialize in different areas of law.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Privacy laws regulate how companies use personal data.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Employment contracts outline workers' rights.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "A legal advisor can help with important decisions.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Court trials require strong legal arguments.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Legal penalties vary depending on the offense.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Freedom of speech is protected under the law.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Some legal cases require mediation before going to trial.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Legal aid services help those who can't afford lawyers.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Cyber laws protect individuals from online fraud.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Driving without a license is illegal in most countries.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Law enforcement agencies ensure public safety.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Patent laws help inventors protect their ideas.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Witnesses play a crucial role in court cases.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Many businesses need legal consultants.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Changing laws can impact many industries.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Lawsuits can be costly and time-consuming.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Some legal matters can be settled outside of court.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "International laws govern relations between countries.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Evidence is necessary to prove a legal case.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Legal contracts must be written in clear terms.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Legal experts help draft important policies.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Many legal cases involve financial disputes.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Marriage laws differ across cultures.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Some legal processes require notarization.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Legal regulations protect employees' rights.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Consumer protection laws help prevent scams.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "A legal guardian is responsible for minors.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Defendants have the right to a fair trial.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Legal advisors assist with business mergers.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Personal injury laws protect accident victims.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Copyright laws prevent unauthorized copying.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Legal firms provide consultancy services.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "A law degree requires years of study.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Some laws date back hundreds of years.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Legal reforms help improve justice systems.",
+    "topics": [
+      "Legal"
+    ]
+  },
+  {
+    "text": "Can you help me find my lost keys?",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "I need help setting up my new phone.",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "Could you help me carry this table upstairs?",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "She always helps her younger brother with homework.",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "I appreciate your help with this project.",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "He needs assistance fixing his car.",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "Could you please help me choose a good book?",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "I need someone to help me move my furniture.",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "Can you show me how to use this software?",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "Would you mind helping me with my presentation?",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "She helped me pack my luggage for the trip.",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "Can you give me directions to the nearest bank?",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "I need a little help with this math problem.",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "Can you assist me in setting up my laptop?",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "My friend helped me practice for the interview.",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "Would you mind explaining this again?",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "I appreciate all the help you’ve given me.",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "He helped me install a new application.",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "Could you give me a hand with these heavy boxes?",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "I need help troubleshooting this technical issue.",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "Can you help me find a good hotel?",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "She provided emotional support when I needed it.",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "I need assistance assembling this furniture.",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "Could you help me make a reservation?",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "The support team helped resolve my issue.",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "Can you explain how this works?",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "I need help filling out this form.",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "He helped me practice my speech.",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "Can you give me advice on this situation?",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "She always helps me with household chores.",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "Can you help me understand this document?",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "I need help lifting this heavy suitcase.",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "Would you assist me in booking a flight?",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "He helped me prepare for my test.",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "Can you show me how to cook this dish?",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "I need help setting up my Wi-Fi.",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "She helped me carry my groceries home.",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "Can you help me look for my glasses?",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "Would you mind explaining the instructions again?",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "I need assistance navigating this website.",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "Can you help me fix my bicycle?",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "Could you give me a hand with this DIY project?",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "I need help organizing my files.",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "Can you guide me through this process?",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "He assisted me in translating the document.",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "Could you help me install this program?",
+    "topics": [
+      "Help"
+    ]
+  },
+  {
+    "text": "I would like to order a steak, medium-rare.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "This restaurant serves the best pasta in town.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "Could you bring me the menu, please?",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "What’s the special dish of the day?",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "I prefer eating at a quiet café.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "Let's try that new sushi restaurant downtown.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "Can I get a table by the window?",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "This place has an amazing dessert selection.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "Do you have any vegan options on the menu?",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "The waiter was very friendly and attentive.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "I love having breakfast at a local diner.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "Could we have the check, please?",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "This seafood restaurant is very popular.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "The food took a long time to arrive.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "Let’s have a barbecue in the backyard.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "The chef’s special is always a good choice.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "I prefer spicy food over sweet food.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "The coffee here is excellent.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "Their homemade pizza tastes delicious.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "Would you recommend this restaurant?",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "This place is famous for its burgers.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "I always enjoy a cup of tea after meals.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "Let’s order some appetizers before the main course.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "Buffet restaurants have a lot of variety.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "The restaurant has a beautiful outdoor seating area.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "This dish is too salty for my taste.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "Can I have my steak cooked well-done?",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "Eating out with friends is always fun.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "The pasta here is made from fresh ingredients.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "I love trying different international cuisines.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "This restaurant has a great ambiance.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "I prefer home-cooked meals over fast food.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "Do you have any gluten-free options?",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "Fine dining experiences can be quite expensive.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "I always check reviews before choosing a restaurant.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "This is the best soup I’ve ever had.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "Some restaurants allow you to customize your meal.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "The buffet offers unlimited drinks.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "Street food is sometimes better than restaurant food.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "I love the way they serve traditional dishes here.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "The food presentation is as important as the taste.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "Would you like to try some seafood?",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "The dining experience is enhanced by good service.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "I usually order takeout when I’m busy.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "This dish is too spicy for me.",
+    "topics": [
+      "Dining"
+    ]
+  },
+  {
+    "text": "I noticed that the sky looks beautiful today.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "She observed the birds flying in the sky.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "The teacher observed the students during the exam.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "He noticed a small crack in the window.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "She carefully observed the details in the painting.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "The scientist recorded his observations in a notebook.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "I saw a rainbow after the rain stopped.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "The detective observed the suspect from a distance.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "He noticed that the road was unusually quiet.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "She watched the sunset from the balcony.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "I observed that my plants grow faster with more sunlight.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "The dog noticed the stranger approaching the house.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "He carefully watched how the chef prepared the dish.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "She observed how people reacted to the speech.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "I noticed that the store changed its decorations.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "The researcher observed the behavior of animals.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "He saw a shooting star in the night sky.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "She watched the waves crash against the shore.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "I noticed that he was unusually quiet today.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "The child observed a butterfly landing on a flower.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "She saw her reflection in the water.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "He observed that the traffic was heavier than usual.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "The doctor carefully observed the patient’s symptoms.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "I noticed a new restaurant opening nearby.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "She observed how quickly the baby learned to walk.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "He saw a group of birds migrating south.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "The teacher noticed that the students were tired.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "She observed the raindrops sliding down the window.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "I saw someone leaving a package at the door.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "The detective watched the security footage carefully.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "She noticed the waiter was very friendly.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "He observed that his coffee had a strange taste.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "The scientist saw a new pattern in the data.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "I noticed that my phone battery drains quickly.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "She observed that the baby smiled when hearing music.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "He saw an old man feeding pigeons in the park.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "The students observed the stars through a telescope.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "She watched the dancers perform on stage.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "I noticed that my cat sleeps a lot during the day.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "The pilot observed strong winds before takeoff.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "He saw the ocean waves glowing at night.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "She watched the kids playing in the playground.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "I noticed that the coffee shop changed its menu.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "The doctor observed a change in the patient’s condition.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "He saw a rare bird in the garden.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "She observed the different colors of autumn leaves.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "I noticed that the train arrived earlier than usual.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "The security guard observed people entering the building.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "He saw a squirrel climbing a tree in the park.",
+    "topics": [
+      "Observation"
+    ]
+  },
+  {
+    "text": "I made a mistake on my test.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "She forgot to bring her keys again.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "He accidentally sent the email to the wrong person.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "I miscalculated the total cost of the trip.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "She dropped her phone and cracked the screen.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "I wrote the wrong date on the invitation.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "He missed his flight because he overslept.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "I bought the wrong size shoes.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "She left her umbrella at the café.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "I accidentally deleted an important file.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "He forgot to turn off the stove.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "I misread the instructions on the exam.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "She spilled coffee on her new dress.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "He made an error in his report.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "I took the wrong turn and got lost.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "She gave the cashier the wrong amount of money.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "I forgot to set my alarm last night.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "He left his wallet in the taxi.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "I accidentally called the wrong number.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "She wrote down the incorrect phone number.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "I didn't double-check my answers on the test.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "He confused the meeting time and arrived late.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "I locked myself out of the house.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "She used too much salt in the recipe.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "I forgot my friend’s birthday.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "He accidentally turned off his computer without saving work.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "I sent a text message to the wrong group chat.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "She mixed up the ingredients while cooking.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "I dropped my phone in water.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "He forgot to submit his assignment on time.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "I left my charger at home when traveling.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "She wore mismatched socks by mistake.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "I typed the wrong password too many times.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "He ordered the wrong dish at the restaurant.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "I took the bus in the wrong direction.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "She accidentally skipped an important question on the test.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "I wrote my name incorrectly on the form.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "He forgot to bring his ID to the airport.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "I picked up the wrong luggage at the airport.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "She left her notebook at school.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "I installed the wrong software update.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "He made a typo in an important email.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "I forgot to bring my homework to class.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "She misplaced her house keys again.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "I sent an unfinished message by accident.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "He forgot to charge his phone before going out.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "I didn't save my work before the computer crashed.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "She misunderstood the teacher’s instructions.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "I accidentally walked into the wrong room.",
+    "topics": [
+      "Mistake"
+    ]
+  },
+  {
+    "text": "We went hiking in the mountains last weekend.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "She enjoys jogging in the park every morning.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "Camping under the stars is a great experience.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "They had a picnic by the lake.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "Playing soccer outside is a lot of fun.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "Walking along the beach at sunset is relaxing.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "Cycling on a sunny day is enjoyable.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "He loves fishing at the nearby river.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "She often paints landscapes outdoors.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "Exploring a national park is always exciting.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "They played volleyball on the beach.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "Running in fresh air is refreshing.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "The kids love flying kites in the park.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "Going on a road trip is an adventure.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "Taking photos of nature is her hobby.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "Rock climbing requires strength and focus.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "Watching birds in the wild is peaceful.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "A bonfire at night is a great way to relax.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "She enjoys reading books in the garden.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "Skiing in the winter is thrilling.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "They went kayaking on the river.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "Horseback riding is a great outdoor activity.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "Going for a walk clears my mind.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "They played frisbee in the park.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "Swimming in the ocean is refreshing.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "Picking fresh fruit at a farm is fun.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "Outdoor yoga helps improve flexibility.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "Taking deep breaths in the forest feels amazing.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "They spent the afternoon painting by the lake.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "He enjoys stargazing on clear nights.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "Hiking trails offer beautiful views of nature.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "Sunbathing on the beach is very relaxing.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "Going on a safari is a dream for many people.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "She loves collecting seashells by the shore.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "Outdoor concerts are always exciting.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "They had a barbecue in the backyard.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "Spending time outdoors is good for mental health.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "Boating on the lake is a great way to relax.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "Building sandcastles on the beach is fun.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "Camping with friends is a great way to bond.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "He enjoys mountain biking in the summer.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "They watched the sunrise from a hilltop.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "Playing in the snow is a fun winter activity.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "A walk through a botanical garden is peaceful.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "She loves to take her dog for a walk.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "Exploring caves is a thrilling adventure.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "They tried paragliding for the first time.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "Snorkeling in the ocean is an unforgettable experience.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "Visiting waterfalls is always exciting.",
+    "topics": [
+      "Outdoor"
+    ]
+  },
+  {
+    "text": "Saving money is important for financial security.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "Investing in stocks can be risky but rewarding.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "She opened a new savings account.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "Managing personal finances requires discipline.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "Online banking makes transactions easier.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "He applied for a home loan last week.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "Budgeting helps control spending habits.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "The exchange rate affects international trade.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "Using credit cards wisely prevents debt problems.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "He is planning for his retirement savings.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "A financial advisor can help with investments.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "They are trying to pay off their student loans.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "She started a side business for extra income.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "Cryptocurrency is becoming more popular worldwide.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "Tracking expenses helps save money efficiently.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "A good credit score is important for loans.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "Emergency funds are useful for unexpected expenses.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "He invested in real estate to generate passive income.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "The government announced new tax policies.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "Paying bills on time avoids late fees.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "They are saving money for their wedding.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "Financial literacy is essential for young adults.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "She prefers using digital wallets for payments.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "Stock market trends change rapidly.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "The company reported an increase in revenue.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "Understanding taxes is important for employees.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "He is trying to reduce his monthly expenses.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "She invested in a mutual fund for long-term growth.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "Taking loans without a plan can lead to debt.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "A fixed deposit is a safe investment option.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "They discussed financial planning with a consultant.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "He started a retirement savings plan.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "Making small investments can lead to big returns.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "They compared insurance policies before buying one.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "Tracking spending habits helps build wealth.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "Smart investing can lead to financial freedom.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "She is researching the best bank for savings accounts.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "Financial planning includes setting short-term and long-term goals.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "Understanding inflation helps in making financial decisions.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "They plan to invest in gold as a safe asset.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "A good financial habit is to save before spending.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "She learned how to manage her budget wisely.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "Borrowing too much money can be dangerous.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "A diversified portfolio reduces investment risks.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "They are looking for ways to increase their income.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "He learned about compound interest in finance class.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "Starting to save early can help in the long run.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "Understanding financial markets is beneficial for investors.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "He prefers using mobile banking for quick transactions.",
+    "topics": [
+      "Finance"
+    ]
+  },
+  {
+    "text": "A good customer service experience builds brand loyalty.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "The support team responded to my inquiry quickly.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "She left a positive review for their customer service.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "A polite attitude improves customer interactions.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "The company provides 24/7 customer support.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "He had to wait a long time for assistance.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Customer feedback helps businesses improve their services.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "They offer refunds for unsatisfied customers.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Handling complaints professionally is important.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "A friendly tone makes customers feel valued.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Live chat support is convenient for quick questions.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Many companies use AI chatbots for customer service.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "She called customer service to fix an issue.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Poor service can lead to lost customers.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "A quick response time improves customer satisfaction.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "They provide excellent after-sales support.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Listening to customer concerns is crucial.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Offering discounts can help retain unhappy customers.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "He contacted support for help with his account.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Customer service agents must remain patient.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "She was happy with the resolution to her complaint.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Clear communication reduces misunderstandings.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "They offer a satisfaction guarantee on all products.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "A good return policy encourages purchases.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "The company sent a replacement product quickly.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Professionalism is key in customer interactions.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Customer service training improves staff efficiency.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "The representative explained the issue clearly.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Providing detailed answers improves customer trust.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Companies that value customers have higher retention rates.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "He requested a refund through customer service.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "They appreciate customer loyalty with special offers.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Understanding customer needs leads to better service.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "The hotline was busy, so he had to wait.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Customers prefer businesses that resolve issues quickly.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "A smooth shopping experience enhances brand reputation.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "He thanked the agent for their help.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Long wait times frustrate customers.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Customer service ratings influence buying decisions.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "She received a follow-up call after her complaint.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Agents should remain calm in difficult situations.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "The support team helped resolve a technical issue.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Companies use surveys to measure customer satisfaction.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "They provide multi-language customer support.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "He requested assistance through the mobile app.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Transparency in policies improves customer trust.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "A good service experience increases repeat business.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "The chat representative was very knowledgeable.",
+    "topics": [
+      "Customer Service"
+    ]
+  },
+  {
+    "text": "Good communication skills are essential for teamwork.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "She prefers texting over phone calls.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Public speaking is a valuable skill.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Email etiquette is important in business communication.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Listening is just as important as speaking.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "A clear message avoids misunderstandings.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Body language plays a big role in communication.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Social media has changed how people communicate.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "He struggled with communication in his new job.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Learning new languages improves communication abilities.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "She wrote a formal letter to the company.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Using simple language helps people understand better.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Online meetings require good communication skills.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Active listening makes conversations more meaningful.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Some people communicate better through writing.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "They had a miscommunication about the meeting time.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Facial expressions can convey emotions clearly.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "A confident tone helps in delivering presentations.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Customer complaints should be handled with clear communication.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Social skills improve workplace interactions.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "She uses gestures while explaining things.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "The manager gave clear instructions to the team.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Avoiding slang makes professional communication clearer.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Clarifying doubts prevents confusion in conversations.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Using examples makes explanations easier to understand.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Video calls make remote work communication easier.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "His speech was engaging and well-structured.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Formal communication differs from casual conversation.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Writing skills are crucial for effective emails.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Different cultures have different communication styles.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "He practiced speaking to improve his confidence.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Emails should be concise and to the point.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Listening actively shows respect in conversations.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "Communicating with confidence makes a strong impression.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "She used visual aids to support her presentation.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "They had a discussion to resolve the issue.",
+    "topics": [
+      "Communication"
+    ]
+  },
+  {
+    "text": "A good speaker adjusts to the audience.",
+    "topics": [
+      "Communication"
+    ]
+  }
+]

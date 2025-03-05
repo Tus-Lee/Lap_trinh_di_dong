@@ -1,0 +1,48 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme (Dark). -->
+    <style name="Base.Theme.English_Learning" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/blue_500_dark</item>
+        <item name="colorPrimaryVariant">@color/blue_500_dark</item>
+        <item name="colorOnPrimary">@color/black_dark</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/orange_light_dark</item>
+        <item name="colorSecondaryVariant">@color/orange_light_dark</item>
+        <item name="colorOnSecondary">@color/black_dark</item>
+        <!-- Define colorSurface and colorOnSurface -->
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/toolbar_dark</item>
+        <!-- Customize the color of the navigation bar -->
+        <item name="android:navigationBarColor">@color/bottomnav_dark</item>
+        <!-- Customize the color of the status bar icons -->
+        <item name="android:windowLightStatusBar">false</item>
+
+    </style>
+
+
+    <style name="ToolBackground">
+        <item name="android:background">@color/toolbar_dark</item>
+    </style>
+    <!-- FrameLayout background -->
+    <style name="FrameLayoutBackground">
+        <item name="android:background">@color/framelayout_dark</item>
+    </style>
+
+    <!-- Bottom navigation background -->
+    <style name="BottomNavBackground">
+        <item name="android:background">@color/bottomnav_dark</item>
+    </style>
+
+    <style name="Text">
+        <item name="android:textColor">@color/text_dark</item>
+    </style>
+
+    <style name="CardView">
+        <item name="android:backgroundTint">@color/cardView_dark</item>
+    </style>
+
+    <style name="TextButton">
+        <item name="android:textColor">@color/button_text_dark</item>
+    </style>
+</resources>

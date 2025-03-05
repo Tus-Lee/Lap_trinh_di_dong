@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="colorToolBar" format="reference|color"/>
+    <attr name="colorFrameLayout" format="color" />
+    <attr name="colorBottomNav" format="color" />
+    <attr name="colorTextPrimary" format="color" />
+    <attr name="buttonBackgroundColor" format="color" />
+</resources>

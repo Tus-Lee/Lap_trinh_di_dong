@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="button_background">#FFFFFF</color> <!-- Màu trắng cho tối -->
+    <color name="stroke">#FFFFFF</color> <!-- Màu đen cho sáng -->
+    <color name="icon_filter_color">#FFFFFF</color> <!-- Màu trắng -->
+    <color name="icon_filter_active_color">#FFAB91</color> <!-- Màu cam sáng hơn khi active trong dark mode -->
+    <color name="schedule_button">#26282E</color>
+    <color name="button_selected">#6D6D6D</color> <!-- Xám tối khi chọn -->
+    <color name="item">#FFFFFF</color>
+    <color name="card_default">#1D2027</color> <!-- Màu nền tối -->
+    <color name="card_selected">#333333</color> <!-- Màu xám đậm hơn -->
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="your_bottom_nav_background">#1D2027</color>
+    <color name="your_navigation_bar_color">#333333</color>
+    <color name="dark_blue">#843737</color>
+    <color name="progress_bar">#01AFFF</color>
+    <color name="progress_bar_background">@color/white</color>
+
+    <color name="orange">#FFA500</color>
+</resources>

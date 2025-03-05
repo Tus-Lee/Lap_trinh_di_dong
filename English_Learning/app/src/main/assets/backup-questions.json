@@ -1,0 +1,514 @@
+[
+  {
+    "text": "Can you help me carry these bags?",
+    "topics": ["Help", "Daily Life"]
+  },
+  {
+    "text": "What time does the nearest supermarket close?",
+    "topics": ["Shopping", "Schedule"]
+  },
+  {
+    "text": "I’d like to book a table for two at 7 PM.",
+    "topics": ["Dining", "Reservation"]
+  },
+  {
+    "text": "Excuse me, where is the nearest ATM?",
+    "topics": ["Finance", "Location"]
+  },
+  {
+    "text": "Could you take a photo of us, please?",
+    "topics": ["Travel", "Help"]
+  },
+  {
+    "text": "I need to pick up some groceries after work.",
+    "topics": ["Shopping", "Daily Life"]
+  },
+  {
+    "text": "Let’s meet at the coffee shop at 3 PM.",
+    "topics": ["Social", "Schedule"]
+  },
+  {
+    "text": "My internet is not working, can you check it?",
+    "topics": ["Technology", "Support"]
+  },
+  {
+    "text": "Do you know a good place for lunch nearby?",
+    "topics": ["Dining", "Recommendation"]
+  },
+  {
+    "text": "I have a doctor’s appointment tomorrow morning.",
+    "topics": ["Health", "Schedule"]
+  },
+  {
+    "text": "I’m looking for a birthday gift for my friend.",
+    "topics": ["Shopping", "Gift"]
+  },
+  {
+    "text": "Do you have this shirt in a smaller size?",
+    "topics": ["Shopping", "Fashion"]
+  },
+  {
+    "text": "Can I have the Wi-Fi password, please?",
+    "topics": ["Technology", "Travel"]
+  },
+  {
+    "text": "The weather is great today! Let’s go for a walk.",
+    "topics": ["Weather", "Outdoor"]
+  },
+  {
+    "text": "I missed the bus. Can you give me a ride?",
+    "topics": ["Transportation", "Help"]
+  },
+  {
+    "text": "How much does this cost?",
+    "topics": ["Shopping", "Money"]
+  },
+  {
+    "text": "Please call me when you arrive.",
+    "topics": ["Communication", "Daily Life"]
+  },
+  {
+    "text": "I’d like to order a large cappuccino, please.",
+    "topics": ["Dining", "Order"]
+  },
+  {
+    "text": "I forgot my umbrella, and it's starting to rain!",
+    "topics": ["Weather", "Daily Life"]
+  },
+  {
+    "text": "Can you recommend a good movie to watch?",
+    "topics": ["Entertainment", "Recommendation"]
+  },
+  {
+    "text": "I need to reschedule my meeting to next Monday.",
+    "topics": ["Work", "Schedule"]
+  },
+  {
+    "text": "I feel a bit sick today, I should rest.",
+    "topics": ["Health", "Daily Life"]
+  },
+  {
+    "text": "Where can I find a taxi around here?",
+    "topics": ["Transportation", "Location"]
+  },
+  {
+    "text": "Let’s order some food for delivery tonight.",
+    "topics": ["Dining", "Convenience"]
+  },
+  {
+    "text": "I have an important presentation at work tomorrow.",
+    "topics": ["Work", "Preparation"]
+  },
+  {
+    "text": "Could you please speak a little slower?",
+    "topics": ["Communication", "Learning"]
+  },
+  {
+    "text": "My phone battery is low. Do you have a charger?",
+    "topics": ["Technology", "Help"]
+  },
+  {
+    "text": "I need to buy a ticket for the subway.",
+    "topics": ["Transportation", "Travel"]
+  },
+  {
+    "text": "The street is really crowded today!",
+    "topics": ["City Life", "Observation"]
+  },
+  {
+    "text": "Could you recommend a good book to read?",
+    "topics": ["Entertainment", "Reading"]
+  },
+  {
+    "text": "I have a flight early in the morning.",
+    "topics": ["Travel", "Schedule"]
+  },
+  {
+    "text": "Can you send me the details by email?",
+    "topics": ["Work", "Communication"]
+  },
+  {
+    "text": "I need to find a new apartment soon.",
+    "topics": ["Housing", "Daily Life"]
+  },
+  {
+    "text": "This new phone model looks interesting!",
+    "topics": ["Technology", "Shopping"]
+  },
+  {
+    "text": "I left my keys at home!",
+    "topics": ["Daily Life", "Mistake"]
+  },
+  {
+    "text": "Let’s go to the park and have a picnic.",
+    "topics": ["Outdoor", "Social"]
+  },
+  {
+    "text": "I need a break. Let’s grab a coffee.",
+    "topics": ["Work", "Relaxation"]
+  },
+  {
+    "text": "Do you have any vegetarian options on the menu?",
+    "topics": ["Dining", "Health"]
+  },
+  {
+    "text": "The concert tickets sold out so quickly!",
+    "topics": ["Entertainment", "Event"]
+  },
+  {
+    "text": "I need to return this item. It doesn’t fit.",
+    "topics": ["Shopping", "Returns"]
+  },
+  {
+    "text": "I want to learn a new language this year.",
+    "topics": ["Education", "Goal"]
+  },
+  {
+    "text": "Can you recommend a good gym around here?",
+    "topics": ["Health", "Exercise"]
+  },
+  {
+    "text": "I forgot to bring my wallet!",
+    "topics": ["Daily Life", "Mistake"]
+  },
+  {
+    "text": "My laptop is running very slowly.",
+    "topics": ["Technology", "Problem"]
+  },
+  {
+    "text": "The traffic is terrible today!",
+    "topics": ["City Life", "Transportation"]
+  },
+  {
+    "text": "I need to pay my bills online today.",
+    "topics": ["Finance", "Daily Life"]
+  },
+  {
+    "text": "Can you suggest a nice place to visit this weekend?",
+    "topics": ["Travel", "Recommendation"]
+  },
+  {
+    "text": "I’m going to the bank to withdraw some cash.",
+    "topics": ["Finance", "Errand"]
+  },
+  {
+    "text": "Can you help me carry these heavy boxes?",
+    "topics": ["Help"]
+  },
+  {
+    "text": "I’m lost. Can you help me find my way?",
+    "topics": ["Help"]
+  },
+  {
+    "text": "Could you help me fix my computer?",
+    "topics": ["Help", "Technology"]
+  },
+  {
+    "text": "I need help understanding this document.",
+    "topics": ["Help", "Work"]
+  },
+  {
+    "text": "Can you give me a hand with my homework?",
+    "topics": ["Help", "Education"]
+  },
+  {
+    "text": "I need your help to move this furniture.",
+    "topics": ["Help", "Home"]
+  },
+  {
+    "text": "Please help me call an ambulance!",
+    "topics": ["Help", "Emergency"]
+  },
+  {
+    "text": "Can you help me open this jar?",
+    "topics": ["Help", "Daily Life"]
+  },
+  {
+    "text": "I need some help finding a good restaurant.",
+    "topics": ["Help", "Food"]
+  },
+  {
+    "text": "Could you assist me with filling out this form?",
+    "topics": ["Help", "Finance"]
+  },
+  {
+    "text": "Can you help me translate this sentence?",
+    "topics": ["Help", "Language"]
+  },
+  {
+    "text": "I’m having trouble starting my car. Can you help?",
+    "topics": ["Help", "Transportation"]
+  },
+  {
+    "text": "Would you mind helping me set up this new device?",
+    "topics": ["Help", "Technology"]
+  },
+  {
+    "text": "I need help carrying these groceries to my car.",
+    "topics": ["Help", "Shopping"]
+  },
+  {
+    "text": "Could you lend me a hand with this project?",
+    "topics": ["Help", "Work"]
+  },
+  {
+    "text": "I need assistance with booking a hotel.",
+    "topics": ["Help", "Travel"]
+  },
+  {
+    "text": "Can you show me how to use this software?",
+    "topics": ["Help", "Technology"]
+  },
+  {
+    "text": "I don’t understand this math problem. Can you help me?",
+    "topics": ["Help", "Education"]
+  },
+  {
+    "text": "My bike chain is stuck. Can you assist me?",
+    "topics": ["Help", "Daily Life"]
+  },
+  {
+    "text": "Can you help me find a taxi?",
+    "topics": ["Help", "Transportation"]
+  },
+  {
+    "text": "Our customer support team is available 24/7.",
+    "topics": ["Support", "Customer Service"]
+  },
+  {
+    "text": "I really appreciate your support during this difficult time.",
+    "topics": ["Support", "Personal"]
+  },
+  {
+    "text": "The company provides technical support for its products.",
+    "topics": ["Support", "Technology"]
+  },
+  {
+    "text": "We need more financial support for this project.",
+    "topics": ["Support", "Finance"]
+  },
+  {
+    "text": "She always supports me in my decisions.",
+    "topics": ["Support", "Personal"]
+  },
+  {
+    "text": "The IT department offers support for software issues.",
+    "topics": ["Support", "Technology"]
+  },
+  {
+    "text": "Our team supports new employees with training sessions.",
+    "topics": ["Support", "Work"]
+  },
+  {
+    "text": "The government provides support for small businesses.",
+    "topics": ["Support", "Business"]
+  },
+  {
+    "text": "Thank you for your emotional support.",
+    "topics": ["Support", "Personal"]
+  },
+  {
+    "text": "The app has a live chat for customer support.",
+    "topics": ["Support", "Technology"]
+  },
+  {
+    "text": "We need to support local businesses by shopping locally.",
+    "topics": ["Support", "Business"]
+  },
+  {
+    "text": "Our charity provides support for homeless people.",
+    "topics": ["Support", "Community"]
+  },
+  {
+    "text": "The technical support team is solving the issue.",
+    "topics": ["Support", "Technology"]
+  },
+  {
+    "text": "Family support is essential for a child’s development.",
+    "topics": ["Support", "Family"]
+  },
+  {
+    "text": "This software has great online support resources.",
+    "topics": ["Support", "Technology"]
+  },
+  {
+    "text": "She supports her colleagues by sharing useful tips.",
+    "topics": ["Support", "Work"]
+  },
+  {
+    "text": "Our team is here to support you with any concerns.",
+    "topics": ["Support", "Customer Service"]
+  },
+  {
+    "text": "He provides support for students with learning difficulties.",
+    "topics": ["Support", "Education"]
+  },
+  {
+    "text": "They offer free legal support for low-income families.",
+    "topics": ["Support", "Legal"]
+  },
+  {
+    "text": "The community came together to support the victims of the disaster.",
+    "topics": ["Support", "Community"]
+  },
+  {
+    "text": "The new action movie is breaking box office records.",
+    "topics": ["Entertainment", "Movies"]
+  },
+  {
+    "text": "She loves reading books as a form of entertainment.",
+    "topics": ["Entertainment", "Reading"]
+  },
+  {
+    "text": "The concert last night was absolutely amazing!",
+    "topics": ["Entertainment", "Music"]
+  },
+  {
+    "text": "Online streaming services have changed the way we watch TV.",
+    "topics": ["Entertainment", "Technology"]
+  },
+  {
+    "text": "He enjoys playing video games in his free time.",
+    "topics": ["Entertainment", "Gaming"]
+  },
+  {
+    "text": "The comedy show had the entire audience laughing.",
+    "topics": ["Entertainment", "Comedy"]
+  },
+  {
+    "text": "Many people enjoy live theater performances.",
+    "topics": ["Entertainment", "Theater"]
+  },
+  {
+    "text": "The amusement park has many thrilling rides.",
+    "topics": ["Entertainment", "Travel"]
+  },
+  {
+    "text": "She spends hours watching her favorite drama series.",
+    "topics": ["Entertainment", "TV Shows"]
+  },
+  {
+    "text": "Listening to music helps me relax after a long day.",
+    "topics": ["Entertainment", "Music"]
+  },
+  {
+    "text": "They are hosting a karaoke night this weekend.",
+    "topics": ["Entertainment", "Music"]
+  },
+  {
+    "text": "The magic show left everyone in awe.",
+    "topics": ["Entertainment", "Performance"]
+  },
+  {
+    "text": "Many people enjoy watching sports for entertainment.",
+    "topics": ["Entertainment", "Sports"]
+  },
+  {
+    "text": "He collects classic vinyl records as a hobby.",
+    "topics": ["Entertainment", "Music"]
+  },
+  {
+    "text": "The festival featured live music and food stalls.",
+    "topics": ["Entertainment", "Events"]
+  },
+  {
+    "text": "She enjoys solving puzzles and playing board games.",
+    "topics": ["Entertainment", "Games"]
+  },
+  {
+    "text": "The new reality TV show is gaining popularity.",
+    "topics": ["Entertainment", "TV Shows"]
+  },
+  {
+    "text": "Many tourists visit Las Vegas for entertainment and nightlife.",
+    "topics": ["Entertainment", "Travel"]
+  },
+  {
+    "text": "Virtual reality games provide an immersive experience.",
+    "topics": ["Entertainment", "Technology"]
+  },
+  {
+    "text": "Watching stand-up comedy is a great way to relieve stress.",
+    "topics": ["Entertainment", "Comedy"]
+  },
+  {
+    "text": "Public transportation is an affordable way to travel in the city.",
+    "topics": ["Transportation", "Public Transport"]
+  },
+  {
+    "text": "Many people prefer riding bicycles for short-distance travel.",
+    "topics": ["Transportation", "Cycling"]
+  },
+  {
+    "text": "Electric cars are becoming more popular due to their environmental benefits.",
+    "topics": ["Transportation", "Technology"]
+  },
+  {
+    "text": "The subway system in New York is one of the busiest in the world.",
+    "topics": ["Transportation", "Public Transport"]
+  },
+  {
+    "text": "He missed his flight because of a traffic jam.",
+    "topics": ["Transportation", "Traffic"]
+  },
+  {
+    "text": "High-speed trains make long-distance travel more convenient.",
+    "topics": ["Transportation", "Railways"]
+  },
+  {
+    "text": "Many cities are investing in electric buses to reduce pollution.",
+    "topics": ["Transportation", "Public Transport"]
+  },
+  {
+    "text": "She prefers taking a taxi when traveling late at night.",
+    "topics": ["Transportation", "Taxi"]
+  },
+  {
+    "text": "Carpooling is a great way to save fuel and reduce traffic congestion.",
+    "topics": ["Transportation", "Environment"]
+  },
+  {
+    "text": "Many people choose ride-sharing apps for their daily commute.",
+    "topics": ["Transportation", "Technology"]
+  },
+  {
+    "text": "The government is expanding the highway to ease traffic flow.",
+    "topics": ["Transportation", "Infrastructure"]
+  },
+  {
+    "text": "Motorcycles are a popular mode of transport in Southeast Asia.",
+    "topics": ["Transportation", "Motorbike"]
+  },
+  {
+    "text": "The airport was closed due to heavy snowfall.",
+    "topics": ["Transportation", "Weather"]
+  },
+  {
+    "text": "Driving at night can be dangerous due to low visibility.",
+    "topics": ["Transportation", "Safety"]
+  },
+  {
+    "text": "He enjoys traveling by cruise ships during vacations.",
+    "topics": ["Transportation", "Travel"]
+  },
+  {
+    "text": "The city has introduced rental e-scooters for short trips.",
+    "topics": ["Transportation", "Technology"]
+  },
+  {
+    "text": "Many countries are developing hyperloop technology for faster travel.",
+    "topics": ["Transportation", "Innovation"]
+  },
+  {
+    "text": "Pedestrian-friendly streets encourage walking and reduce traffic.",
+    "topics": ["Transportation", "Urban Planning"]
+  },
+  {
+    "text": "She prefers to drive a hybrid car to save on fuel costs.",
+    "topics": ["Transportation", "Environment"]
+  },
+  {
+    "text": "The ferry ride across the river offers a scenic view.",
+    "topics": ["Transportation", "Travel"]
+  }
+]

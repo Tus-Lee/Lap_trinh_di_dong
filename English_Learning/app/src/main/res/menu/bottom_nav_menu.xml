@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Home"
+        android:icon="@drawable/ic_home_filled"
+        android:id="@+id/home"/>
+    <item android:title="Courses"
+        android:id="@+id/courses"
+        android:icon="@drawable/ic_book_black"/>
+    <item android:title="Schedule"
+        android:id="@+id/schedule"
+        android:icon="@drawable/baseline_calendar_month_24"/>
+    <item android:title="Setting"
+        android:id="@+id/setting"
+        android:icon="@drawable/baseline_settings_24"/>
+
+</menu>

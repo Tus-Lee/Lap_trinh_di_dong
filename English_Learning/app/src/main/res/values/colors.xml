@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yellow">#FFD65F</color>
+    <color name="green">#4FA968</color>
+    <color name="green_200">#28BF95</color>
+    <color name="orrange_200">#FF8F6B</color>
+    <color name="pink">#D554AB</color>
+    <color name="purple">#6E407D</color>
+    <color name="purple_primary">#6750A4</color>
+    <color name="selected_color">#CCCCCC</color> <!-- Màu xám khi chọn -->
+    <color name="unselected_color">#FFFFFF</color> <!-- Màu trắng khi không chọn -->
+    <color name="red">#FF0000</color>
+    <color name="light_purple">#EADDFF</color>
+    <color name="orange">#FFA500</color>
+
+    <color name="brown">#A52A2A</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="magenta">#FF00FF</color>
+    <color name="lime">#00FF00</color>
+    <color name="teal">#008080</color>
+    <color name="maroon">#800000</color>
+    <color name="navy">#000080</color>
+    <color name="olive">#808000</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="indigo">#4B0082</color>
+    <color name="violet">#EE82EE</color>
+    <color name="gold">#FFD700</color>
+    <color name="coral">#FF7F50</color>
+    <color name="turquoise">#40E0D0</color>
+    <color name="salmon">#FA8072</color>
+    <color name="beige">#F5F5DC</color>
+    <color name="khaki">#F0E68C</color>
+    <color name="lavender">#E6E6FA</color>
+    <color name="mint">#98FB98</color>
+    <color name="orchid">#DA70D6</color>
+    <color name="peru">#CD853F</color>
+    <color name="plum">#DDA0DD</color>
+    <color name="wheat">#F5DEB3</color>
+    <color name="crimson">#DC143C</color>
+    <color name="chocolate">#D2691E</color>
+    <color name="tomato">#FF6347</color>
+    <color name="dark_gray">#A9A9A9</color>
+    <color name="light_gray">#D3D3D3</color>
+    <color name="light_blue">#ADD8E6</color>
+    <color name="dark_blue">#00008B</color>
+    <color name="light_green">#90EE90</color>
+    <color name="dark_green">#006400</color>
+    <color name="light_red">#FFCCCB</color>
+    <color name="dark_red">#8B0000</color>
+    <color name="dark_purple">#4B0082</color>
+    <color name="light_yellow">#FFFFE0</color>
+    <color name="dark_yellow">#8B8000</color>
+    <color name="light_orange">#FFDAB9</color>
+    <color name="dark_orange">#FF8C00</color>
+    <color name="light_pink">#FFB6C1</color>
+    <color name="dark_pink">#8B008B</color>
+    <color name="light_brown">#D2B48C</color>
+    <color name="dark_brown">#8B4513</color>
+    <color name="light_cyan">#E0FFFF</color>
+    <color name="dark_cyan">#008B8B</color>
+    <color name="light_magenta">#FFBBFF</color>
+    <color name="dark_magenta">#8B008B</color>
+    <color name="light_lime">#E0FFE0</color>
+    <color name="dark_lime">#008B00</color>
+    <color name="light_teal">#B0E0E6</color>
+    <color name="dark_teal">#008080</color>
+    <color name="light_maroon">#FFB6C1</color>
+    <color name="dark_maroon">#800000</color>
+    <color name="light_navy">#ADD8E6</color>
+    <color name="dark_navy">#000080</color>
+    <color name="light_olive">#FFFFE0</color>
+    <color name="dark_olive">#808000</color>
+    <color name="light_silver">#D3D3D3</color>
+    <color name="dark_silver">#A9A9A9</color>
+    <color name="light_aqua">#E0FFFF</color>
+    <color name="dark_aqua">#008B8B</color>
+    <color name="light_fuchsia">#FFBBFF</color>
+    <color name="dark_fuchsia">#8B008B</color>
+    <color name="light_indigo">#E0B0FF</color>
+    <color name="dark_indigo">#4B0082</color>
+    <color name="light_violet">#EE82EE</color>
+    <color name="dark_violet">#8B008B</color>
+    <color name="light_gold">#FFD700</color>
+    <color name="dark_gold">#8B8000</color>
+    <color name="light_coral">#FF7F50</color>
+    <color name="dark_coral">#8B3E2F</color>
+    <color name="light_turquoise">#40E0D0</color>
+    <color name="dark_turquoise">#008080</color>
+    <color name="light_salmon">#FA8072</color>
+    <color name="dark_salmon">#8B4513</color>
+    <color name="light_beige">#F5F5DC</color>
+    <color name="dark_beige">#8B8682</color>
+    <color name="light_khaki">#F0E68C</color>
+    <color name="dark_khaki">#8B864E</color>
+    <color name="light_lavender">#E6E6FA</color>
+    <color name="dark_lavender">#483D8B</color>
+    <color name="light_mint">#98FB98</color>
+    <color name="dark_mint">#008000</color>
+    <color name="light_orchid">#DA70D6</color>
+    <color name="dark_orchid">#8B008B</color>
+    <color name="light_peru">#CD853F</color>
+    <color name="dark_peru">#8B5A2B</color>
+    <color name="blue_dark">#B2A5FF</color>
+    <color name="white_blue">#FFF2F2</color>
+    <color name="blue_200">#DAD2FF</color>
+    <color name="gray_light">#C4C4C4</color>
+    <color name="green_blue">#00FFD1</color>
+    <color name="progress">#C6BCFF</color>
+    <color name="button_selector">#352D73</color>
+
+
+
+    <!-- Light Theme Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue_500">#2196F3</color>
+    <color name="orange_light">#FFCC80</color>
+    <color name="toolbar">#FDFDFD</color>
+    <color name="framelayout">#F2F5FC</color>
+    <color name="bottomnav">#FDFDFD</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="onSurface">#000000</color>
+    <color name="text">#000000</color>
+    <color name="cardView">#FDFDFD</color>
+    <color name="button_text">#FFFEFE</color>
+    <color name="button_background">#000000</color> <!-- Màu đen cho sáng -->
+    <color name="stroke">#000000</color> <!-- Màu đen cho sáng -->
+    <color name="icon_filter_color">#000000</color> <!-- Màu đen -->
+    <color name="icon_filter_active_color">#FF5722</color> <!-- Màu cam khi active -->
+    <color name="schedule_button">#FDFDFD</color>
+    <color name="button_selected">#B0B0B0</color> <!-- Xám sáng khi chọn -->
+    <color name="item">#000000</color>
+    <color name="card_default">#FFFFFF</color>
+    <color name="card_selected">#D3D3D3</color> <!-- Màu xám nhạt -->
+    <color name="spinner_text_color">#000000</color> <!-- Màu đen -->
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="grey_500">#9E9E9E</color>
+    <color name="your_bottom_nav_background">#FDFDFD</color>
+    <color name="your_navigation_bar_color">#FFFFFF</color>
+    <color name="progress_bar">#1B00A2</color>
+    <color name="progress_bar_background">@color/black</color>
+
+
+
+    <!-- Dark Theme Colors -->
+    <color name="black_dark">#FF000000</color>
+    <color name="white_dark">#FFFFFFFF</color>
+    <color name="blue_500_dark">#2196F3</color>
+    <color name="orange_light_dark">#FFCC80</color>
+    <color name="toolbar_dark">#26282E</color>
+    <color name="framelayout_dark">#111518</color>
+    <color name="bottomnav_dark">#1D2027</color>
+    <color name="surface_dark">#000000</color>
+    <color name="onSurface_dark">#FFFEFE</color>
+    <color name="text_dark">#FFFFFF</color>
+    <color name="cardView_dark">#1D2027</color>
+    <color name="button_text_dark">#000000</color>
+
+
+</resources>

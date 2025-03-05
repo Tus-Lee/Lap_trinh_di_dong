@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Chọn độ khó"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="16dp"/>
+
+    <RadioGroup
+        android:id="@+id/radioGroupLevels"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:id="@+id/radioEasy"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dễ (3 tiếng)" />
+
+        <RadioButton
+            android:id="@+id/radioMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Trung Bình (1 tiếng)" />
+
+        <RadioButton
+            android:id="@+id/radioHard"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Khó (15 phút)" />
+    </RadioGroup>
+</LinearLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Nền Spinner -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/white"/> <!-- Nền trắng -->
+            <stroke android:width="2dp" android:color="@android:color/darker_gray"/> <!-- Viền xám -->
+            <corners android:radius="8dp"/> <!-- Bo góc -->
+        </shape>
+    </item>
+
+    <!-- Icon mũi tên -->
+    <item android:drawable="@drawable/ic_arrow_drop_down_black"
+        android:gravity="end|center_vertical"
+        android:end="10dp"/>
+</layer-list>

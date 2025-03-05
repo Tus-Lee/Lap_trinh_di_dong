@@ -1,0 +1,51 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme (Light). -->
+    <style name="Base.Theme.English_Learning" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/blue_500</item>
+        <item name="colorPrimaryVariant">@color/blue_500</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/orange_light</item>
+        <item name="colorSecondaryVariant">@color/orange_light</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Define colorSurface and colorOnSurface -->
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/toolbar</item>
+        <!-- Customize the color of the navigation bar -->
+        <item name="android:navigationBarColor">@color/bottomnav</item>
+        <!-- Customize the color of the status bar icons -->
+        <item name="android:windowLightStatusBar">true</item>
+
+    </style>
+
+
+    <style name="ToolBackground">
+        <item name="android:background">@color/toolbar</item>
+    </style>
+    <!-- FrameLayout background -->
+    <style name="FrameLayoutBackground">
+        <item name="android:background">@color/framelayout</item>
+    </style>
+
+    <!-- Bottom navigation background -->
+    <style name="BottomNavBackground">
+        <item name="android:background">@color/bottomnav</item>
+    </style>
+
+    <style name="Text">
+        <item name="android:textColor">@color/text</item>
+    </style>
+
+    <style name="CardView">
+        <item name="android:backgroundTint">@color/cardView</item>
+    </style>
+
+    <style name="TextButton">
+        <item name="android:textColor">@color/button_text</item>
+    </style>
+
+
+    <style name="Theme.English_Learning" parent="Base.Theme.English_Learning" />
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="textViewTopic">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/topic_background</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="BottomNavigationView" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="android:background">@color/your_bottom_nav_background</item>
+        <item name="itemIconTint">@color/bottom_nav_item_color</item>
+        <item name="itemTextColor">@color/bottom_nav_item_color</item>
+        <item name="itemIconSize">24dp</item>
+        <item name="labelVisibilityMode">labeled</item>
+        <item name="itemHorizontalTranslationEnabled">false</item>
+        <item name="itemTextAppearanceActive">@style/BottomNavigationView.Active</item>
+        <item name="itemTextAppearanceInactive">@style/BottomNavigationView.Inactive</item>
+    </style>
+
+    <style name="BottomNavigationView.Active" parent="TextAppearance.AppCompat.Caption">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="BottomNavigationView.Inactive" parent="TextAppearance.AppCompat.Caption">
+        <item name="android:textSize">12sp</item>
+    </style>
+</resources>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <!-- Nút Hủy ở góc trên bên trái -->
+    <TextView
+        android:id="@+id/btnCancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:text="Hủy"
+        style="@style/Text"
+        android:textSize="16sp" />
+
+    <!-- Nút Lưu ở góc trên bên phải -->
+    <TextView
+        android:id="@+id/btnSave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:text="Lưu"
+        style="@style/Text"
+        android:textSize="16sp" />
+
+    <!-- Tiêu đề ở giữa -->
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btnCancel"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="Chỉnh sửa báo thức"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <!-- TimePicker -->
+    <TimePicker
+        android:id="@+id/timePicker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvTitle"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:timePickerMode="spinner" />
+
+    <!-- Số lần lặp -->
+    <LinearLayout
+        android:id="@+id/layoutRepeat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/timePicker"
+        android:layout_marginTop="16dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Số lần lặp:"
+            android:textSize="16sp"
+            style="@style/Text"
+            android:gravity="center_vertical"/>
+
+        <Spinner
+            android:id="@+id/spinnerRepeat"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center_vertical"/>
+    </LinearLayout>
+
+    <!-- Nút Xóa ở dưới cùng -->
+    <Button
+        android:id="@+id/btnDelete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/layoutRepeat"
+        android:layout_marginTop="32dp"
+        android:backgroundTint="@color/black"
+        android:textColor="@android:color/white"
+        android:text="Xóa" />
+
+</RelativeLayout>

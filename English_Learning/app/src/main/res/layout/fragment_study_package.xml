@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imageBack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="Back"
+            android:src="@drawable/ic_back" />
+
+        <TextView
+            android:id="@+id/textViewPackageTitle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:paddingBottom="8dp"
+            android:text="Các Gói Học"
+            android:textSize="20sp"
+            style="@style/Text"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <android.widget.Button
+        android:id="@+id/btnDeletePackages"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_gravity="end"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/rounded_button_bg"
+        android:minWidth="0dp"
+        android:minHeight="0dp"
+        android:paddingStart="20dp"
+        android:textStyle="bold"
+        android:paddingEnd="20dp"
+        android:textSize="18sp"
+        android:text="Xóa Khóa Học"
+        style="@style/TextButton"
+        />
+
+    <ProgressBar
+        android:id="@+id/progressBarLoading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:visibility="gone" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerViewStudyPackages"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>
